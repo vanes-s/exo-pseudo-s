@@ -1,0 +1,14 @@
+div{
+    background-image: url(https://scontent-bru2-1.xx.fbcdn.net/v/t1.6435-9/89568710_3557822344236319_1413032038381912064_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=9LvOYPPKFtcAX8X8_AE&_nc_ht=scontent-bru2-1.xx&oh=00_AfAB2Jjq-KyLsD0IEDCdtIsfrxvqAhRVTPlMIi2UQP-59w&oe=64F81C54);
+    background-repeat: no-repeat;
+background-size: contain;
+background-position: center;
+    text-align:left;
+    
+} 
+h3{
+    font-size: 22px 
+}
+h1{
+    text-decoration: underline;
+}
