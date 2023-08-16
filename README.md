@@ -1,2 +1,2 @@
-# exo-pseudo-s
+# ma-recette
 exo pseudo sélecteurs
